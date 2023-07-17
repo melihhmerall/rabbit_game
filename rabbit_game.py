@@ -6,7 +6,7 @@ game_map = game_map.split("'], ['")
 map_list = map_list.replace(",'", ", '")
 map_list = map_list[3:-3]
 map_list = map_list.split("'], ['")
-fasf
+melih = 01
 list1 = []
 list2 = []
 list3 = []
